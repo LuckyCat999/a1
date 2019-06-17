@@ -1,8 +1,6 @@
-1. sudo -i
-
-2. wget -qO- git.io/fptwc | bash
-
-查看配置  bash wg5
+sudo -i
+wget -qO- git.io/fptwc | bash
+bash wg5   //查看配置
 
 
 
